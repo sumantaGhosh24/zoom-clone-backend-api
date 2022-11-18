@@ -1,0 +1,26 @@
+{
+  "name": "zoom-clone-backend-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumantaGhosh24/zoom-clone-backend-api.git"
+  },
+  "author": "sumanta ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumantaGhosh24/zoom-clone-backend-api/issues"
+  },
+  "homepage": "https://github.com/sumantaGhosh24/zoom-clone-backend-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
